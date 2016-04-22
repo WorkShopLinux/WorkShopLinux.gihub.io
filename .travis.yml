@@ -5,11 +5,11 @@ branches:
   only:
   - pelican
 before_install:
-- openssl aes-256-cbc -K $encrypted_30c58aacfde2_key -iv $encrypted_30c58aacfde2_iv -in publish-key.enc -out ~/.ssh/publish-key -d
+- openssl aes-256-cbc -K $encrypted_0c1ea85c4016_key -iv $encrypted_0c1ea85c4016_iv -in publish-key.enc -out ~/.ssh/publish-key -d
 - chmod u=rw,og= ~/.ssh/publish-key
 - echo "Host github.com" >> ~/.ssh/config
 - echo "  IdentityFile ~/.ssh/publish-key" >> ~/.ssh/config
-- git remote set-url origin git@github.com:Z4yon/Z4yon.github.io.git
+- git remote set-url origin git@github.com:WorkShopLinux/WorkShopLinux.github.io.git
 - git fetch origin -f master:master
 #install:
 #
