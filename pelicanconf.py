@@ -64,4 +64,5 @@ SHORTCUT_ICON = 'http://www.clipartbest.com/cliparts/nTE/GRq/nTEGRqGTA.png'
 HEADER_IMAGE = 'http://www.sinestec.com.br/wp-content/uploads/2015/03/data_center.jpg'
 BACKGROUND_IMAGE = 'http://www.clipartbest.com/cliparts/nTE/GRq/nTEGRqGTA.png'
 COPYRIGHT = '2016 &copy; Todos direitos reservados.'
-PERSONAL_PHOTO = "https://pbs.twimg.com/profile_images/614128989112782848/S8826jXM.jpg"
+PERSONAL_PHOTO = 'https://pbs.twimg.com/profile_images/614128989112782848/S8826jXM.jpg'
+PERSONAL_INFO = 'entre aqui com o texto da parte sobre entre aqui com o texto da parte sobre entre aqui com o texto da parte sobre entre aqui com o texto da parte sobre entre aqui com o texto da parte sobre entre aqui com o texto da parte sobre entre aqui com o texto da parte sobre entre aqui com o texto da parte sobre '
