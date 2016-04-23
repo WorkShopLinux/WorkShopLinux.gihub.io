@@ -61,7 +61,7 @@ SITEMAP = {
 FAVICON = 'http://www.clipartbest.com/cliparts/nTE/GRq/nTEGRqGTA.png'
 ICON = 'http://www.clipartbest.com/cliparts/nTE/GRq/nTEGRqGTA.png'
 SHORTCUT_ICON = 'http://www.clipartbest.com/cliparts/nTE/GRq/nTEGRqGTA.png'
-HEADER_IMAGE = 'https://app.box.com/representation/file_version_65458055850/image_2048_jpg/1.jpg?shared_name=lg4ny09l6rz7f8gpbwtghhosyrl4zebp'
+HEADER_IMAGE = 'https://app.box.com/representation/file_version_65461344342/image_2048_jpg/1.jpg?shared_name=30mljt84zaggnmkhhbug3oq25j3ariqt'
 BACKGROUND_IMAGE = 'http://www.clipartbest.com/cliparts/nTE/GRq/nTEGRqGTA.png'
 COPYRIGHT = '2016 &copy; Todos direitos reservados<a href="http://z4yon.github.io/">.</a>'
 PERSONAL_PHOTO = 'https://app.box.com/representation/file_version_65458744990/image_2048/1.png?shared_name=a88v0lhutyg6a5uqpjtbgrqriv758wda'
