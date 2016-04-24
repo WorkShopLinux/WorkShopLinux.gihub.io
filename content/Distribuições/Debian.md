@@ -33,12 +33,11 @@ imagem time line<p> </p>
  
 ##Curiosidades<p> </p>
 
- * + Debian é pronunciado /ˈde.bi.ən/. O nome vem do nome de seu criador, Ian Murdock, e sua esposa, Debra.
- 
- * + Os codinomes das versões do Debian são baseados nos nomes dos personagens do Toy Story.
- 
- * + A relação entre a Pixar e o Debian tem uma “marca” bem interessante: O simbolo do Debian está presente no queixo do Buzz Lightyear!
- 
+<ul>
+<li>Debian é pronunciado /ˈde.bi.ən/. O nome vem do nome de seu criador, Ian Murdock, e sua esposa, Debra.</li>
+<li>Os codinomes das versões do Debian são baseados nos nomes dos personagens do Toy Story.</li>
+<li>A relação entre a Pixar e o Debian tem uma “marca” bem interessante: O simbolo do Debian está presente no queixo do   Buzz Lightyear!</li>
+</ul>
 <p> </p>
  
 imagem buzz debian
