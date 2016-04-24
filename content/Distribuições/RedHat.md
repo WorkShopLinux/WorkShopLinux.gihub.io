@@ -40,7 +40,8 @@ Em 1993 Bob Young incorporou a Corporação ACC, um catálogo de negócio que ve
 
 Bob Young comprou os negócios de Ewing em 1995, e os dois se uniram para formar a Red Hat Software, com Young como executivo - chefe(CEO).
 
-Red Hat veio em público em 11 de agosto de 1999, alcançando o oitavo maior ganho do primeiro dia na história de Wall Street.
+Red Hat veio em público em 11 de agosto de 1999, alcançando o oitavo maior ganho do primeiro dia na história de Wall Street.<p> </p>
+![alt text](https://app.box.com/representation/file_version_65545807062/image_2048_jpg/1.jpg?shared_name=3q1ppz6vsc7hb44cf1jyljnbuw8vjheh "Bob Young e Marc Ewing") <p> </p>
 Em 15 de novembro de 1999, a Red Hat adquiriu Cygnus Solutions. Cygnus fornecia suporte comercial para software livre e eram mantedores de produtos GNU, como o GNU Debugger e GNU binutils. Um dos fundadores da Cygnus, Michael Tiemann, tornou-se o diretor técnico da Red Hat e em 2008 o vice-presidente de assuntos de código aberto.
 
 Em Fevereiro de 2000, a InfoWorld concedia a Red Hat pela quarta vez consecutiva o prêmio de "Sistema Operacional do Ano" para a versão 6.1 do sistema. 
