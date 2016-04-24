@@ -21,9 +21,11 @@ Pacote Office | Libre Office 4.3.0
 Gerenciador de e-mails | Evolution
 
 É uma das distribuições mais antigas e populares. Ela serviu de base para a criação de diversas outras distribuições populares, tais como Ubuntu e Kurumin.<p> </p>
-![alt text](https://app.box.com/representation/file_version_65546597610/image_2048/1.png?shared_name=v38x0xirvx2zbu2rt299jchxoyq0kgzv)
-<p> </p>
 
+<figure style="aling: center;">
+<img src="https://app.box.com/representation/file_version_65546597610/image_2048/1.png?shared_name=v38x0xirvx2zbu2rt299jchxoyq0kgzv" alt="Ubuntu derivado do Debian" aling="center">
+</figure>
+<p> </p>
 ##Caracteristicas:<p> </p>
 
 <ul>
