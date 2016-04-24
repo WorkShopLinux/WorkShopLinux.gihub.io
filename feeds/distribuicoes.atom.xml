@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Workshop Linux</title><link href="/" rel="alternate"></link><link href="/feeds/distribuicoes.atom.xml" rel="self"></link><id>/</id><updated>2016-04-24T01:29:00-03:00</updated><entry><title>Linux - RedHat Enterprise</title><link href="/2016/04/linux-redhat-enterprise/" rel="alternate"></link><published>2016-04-24T01:29:00-03:00</published><author><name>2TRCA</name></author><id>tag:,2016-04-24:2016/04/linux-redhat-enterprise/</id><summary type="html">&lt;h1&gt;RedHat Enterprise Linux&lt;/h1&gt;
 &lt;p&gt;&lt;p&gt;RED HAT ENTERPRISE LINUX (RHEL) RHEL é uma distribuição fabricada pela Red Hat visando o mercado comercial. Ele é lançado nas seguintes plataformas de servidor e desktop:&lt;/p&gt;
-&lt;table style="border: none; boder-top:none; background-color:#fff"&gt;&lt;a  style = "background-color: red;"&gt; &lt;tr&gt;&lt;td&gt;
+&lt;table style="border: none; boder-top:none; background-color:#fff cursor: pointer;"&gt; &lt;tr&gt;&lt;td&gt;
 &lt;img src="http://www.theinquirer.net/IMG/471/165471/redhat-logo.jpg" width="200"/&gt;&lt;/td&gt;
-&lt;td&gt; &lt;/a&gt;&lt;table&gt;
+&lt;td&gt; &lt;table&gt;
   &lt;tr&gt;
     &lt;td&gt;Servidor&lt;/td&gt;
     &lt;td&gt;Desktop&lt;/td&gt;
