@@ -1,5 +1,5 @@
 Title: Linux - Debian
-Summary: <div style="padding-left: 30%;"><img src="https://app.box.com/representation/file_version_65551465710/image_2048/1.png?shared_name=d22fh0rsjutifddq1tyfgqp14cacb8uj" width="100"/></div><div><p>Uma das distribuições mais antigas e populares. Ela serviu de base para a criação de diversas outras distribuições</p></div>
+Summary: <div style="padding-left: 30%;"><img src="https://app.box.com/representation/file_version_65551465710/image_2048/1.png?shared_name=d22fh0rsjutifddq1tyfgqp14cacb8uj" width="100"/></div><div><p>Uma das distribuições mais antigas e populares. Ela serviu de base para a criação de diversas outras distribuições.</p></div>
 Date: 2016-04-24 03:27:00
 Tags: Debian, Linux,
 
