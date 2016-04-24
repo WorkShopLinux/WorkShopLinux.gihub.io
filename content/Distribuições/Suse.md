@@ -1,6 +1,6 @@
 Title: Linux - SUSE Enterprise
 Summary: <div style="padding-left: 30%;"><img src="https://app.box.com/representation/file_version_65552708214/image_2048/1.png?shared_name=t4zapntun5d5sguyk1f25vs8obhl9fj2" width="100"/></div><div><p>SUSE Enterprise, oferece maior tempo de atividade dos data center's, além de eficiência operacional e inovação acelerada.</p></div>
-Date: 2016-04-24 02:14:00
+Date: 2016-04-24 04:14:00
 Tags: Suse, Linux,
 
 ---
