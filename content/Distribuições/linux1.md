@@ -33,8 +33,7 @@ Tags: Linux, RedHat,
     <td>-------</td>
   </tr>
 </table></td></tr></table>
-
-##História
+##História<p> </p>
 
 Em 1993 Bob Young incorporou a Corporação ACC, um catálogo de negócio que vendia Linux, Unix e acessórios de software. Em 1994, Marc Ewing criou a sua própria distribuição Linux, que deu o nome de Red Hat Linux e lançou o software em outubro, e tornou-se conhecido como o lançamento de Halloween. 
 
@@ -51,6 +50,6 @@ Em 18 de setembro de 2006, a Red Hat lançou o Red Hat Application Stack, sua pr
 
 Em 15 de março de 2007, lançou o Red Hat Enterprise Linux 5, e em junho adquiriu Mobicents. Em 2008, adquiriu Amentra, provedora de serviços de integração de sistemas para a arquitetura orientada a serviços , gestão de processos de negócios, desenvolvimento de sistemas e serviços de dados corporativos. 
 
-Em 10 de janeiro de 2011, Red Hat anunciou que iria ampliar a sua sede em duas fases, somando 540 funcionários para a operação de Raleigh. A empresa vai investir mais de US $ 109 milhões. O estado da Carolina do Norte está oferecendo até US $15 milhões em incentivos. A segunda fase envolve a "expansão para novas tecnologias como a virtualização de software e tecnologia ofertas de nuvem".
+Em 10 de janeiro de 2011, Red Hat anunciou que iria ampliar a sua sede em duas fases, somando 540 funcionários para a operação de Raleigh. A empresa vai investir mais de US $ 109 milhões. O estado da Carolina do Norte está oferecendo até US $15 milhões em incentivos. A segunda fase envolve a "expansão para novas tecnologias como a virtualização de software e tecnologia ofertas de nuvem".<p> </p>
 
-##Histórico das Versões:
+##Histórico das Versões:<p> </p>
