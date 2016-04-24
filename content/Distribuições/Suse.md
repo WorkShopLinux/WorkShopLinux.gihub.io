@@ -4,7 +4,6 @@ Date: 2016-04-23 23:14:00
 Tags: Suse, Linux,
 
 ---
-<p> </p>
 #Suse Server Enterprise 
 
 <p> </p>
