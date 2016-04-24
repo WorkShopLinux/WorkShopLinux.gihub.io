@@ -5,7 +5,7 @@ Tags: Linux, RedHat,
 
 #RedHat Enterprise Linux
 <p>RED HAT ENTERPRISE LINUX (RHEL) RHEL é uma distribuição fabricada pela Red Hat visando o mercado comercial. Ele é lançado nas seguintes plataformas de servidor e desktop:</p>
-<table style="border: 0px solid black;" aling="center" ><tr><td>
+<table style="border: none; background-color:#ddd" aling="center" ><tr><td>
 <img src="http://www.theinquirer.net/IMG/471/165471/redhat-logo.jpg" width="200"/></td>
 <td> <table>
   <tr>
