@@ -121,16 +121,27 @@
 
 /** This is the color that theme linkes show up as **/
 .theme_link {
-  color:#7E8344;
+  color:rgba(16, 125, 17, 0.87);
 }
 
 a:hover {
-  color:#999e52;
+  color:#52849E;
 }
 .plusNav {
-  background:#7E8344;
+  background:rgb(16, 125, 17);
 }
 .plusNav:hover {
-  color:#fff;
-  box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #C7F5CD, 0 0 0 10px rgba(255, 255, 255, 0.5);
+  color:;
+  box-shadow: 0 0 0 2px rgba(48, 136, 48, 0.71), 0 0 10px 10px rgba(136, 160, 140, 0.05), 0 0 0 10px rgba(255, 255, 255, 0.45);
+}
+#no_table { 
+  background-color: #fff;
+box-sizing: border-box;
+
+}
+td#no_table{
+  border-top: none;
+  background-color: transparent;
+  box-sizing: border-box;
+    
 }
