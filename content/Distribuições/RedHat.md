@@ -1,7 +1,5 @@
 Title: Linux - RedHat Enterprise
-Summary: <table id="no_table" class="no_table"> <tr><td id="no_table" class="no_table" aling="center">
-<img src="http://www.theinquirer.net/IMG/471/165471/redhat-logo.jpg" width="100"/></td>
-<td id="no_table" class="no_table">RedHat Enterprise Linux (RHEL) é uma distribuição fabricada pela Red Hat visando o mercado comercial.</td></tr></table>
+Summary: <div><img src="http://www.theinquirer.net/IMG/471/165471/redhat-logo.jpg" width="100"/></div><div><p>RedHat Enterprise Linux (RHEL) é uma distribuição fabricada pela Red Hat visando o mercado comercial.</p></div>
 Date: 2016-04-24 01:29:00
 Tags: Linux, RedHat,
 
