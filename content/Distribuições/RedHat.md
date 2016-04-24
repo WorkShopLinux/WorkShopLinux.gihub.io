@@ -2,7 +2,7 @@ Title: Linux - RedHat Enterprise
 Summary: RedHat Enterprise Linux (RHEL) é uma distribuição fabricada pela Red Hat visando o mercado comercial.
 Date: 2016-04-24 01:29:00
 Tags: Linux, RedHat,
-
+<p> </p>
 #RedHat Enterprise Linux
 <p>RED HAT ENTERPRISE LINUX (RHEL) RHEL é uma distribuição fabricada pela Red Hat visando o mercado comercial. Ele é lançado nas seguintes plataformas de servidor e desktop:</p>
 <table id="no_table" class="no_table"> <tr><td id="no_table" class="no_table" aling="center">
@@ -50,6 +50,6 @@ Em 18 de setembro de 2006, a Red Hat lançou o Red Hat Application Stack, sua pr
 
 Em 15 de março de 2007, lançou o Red Hat Enterprise Linux 5, e em junho adquiriu Mobicents. Em 2008, adquiriu Amentra, provedora de serviços de integração de sistemas para a arquitetura orientada a serviços , gestão de processos de negócios, desenvolvimento de sistemas e serviços de dados corporativos. 
 
-Em 10 de janeiro de 2011, Red Hat anunciou que iria ampliar a sua sede em duas fases, somando 540 funcionários para a operação de Raleigh. A empresa vai investir mais de US $ 109 milhões. O estado da Carolina do Norte está oferecendo até US $15 milhões em incentivos. A segunda fase envolve a "expansão para novas tecnologias como a virtualização de software e tecnologia ofertas de nuvem".<p> </p>
+Em 10 de janeiro de 2011, Red Hat anunciou que iria ampliar a sua sede em duas fases, somando 540 funcionários para a operação de Raleigh. A empresa vai investir mais de US $ 109 milhões. O estado da Carolina do Norte está oferecendo até US $15 milhões em incentivos. A segunda fase envolve a "expansão para novas tecnologias como a virtualização de software e tecnologia ofertas de nuvem".
 
 ##Histórico das Versões:<p> </p>
