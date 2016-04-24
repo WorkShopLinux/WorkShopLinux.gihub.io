@@ -1,5 +1,5 @@
 Title: Linux - Debian
-Summary: Criando uma RNA simples com MatLab
+Summary: Debian é uma das únicas distribuições que não é mantida por uma empresa. É todo desenvolvido por voluntários e estudantes de uma universidade.
 Date: 2016-04-24 00:27:00
 Tags: Debian, Linux,
 
