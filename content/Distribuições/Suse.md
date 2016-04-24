@@ -5,10 +5,13 @@ Tags: Suse, Linux,
 
 #Suse Server Enterprise 
 
-<p>Nós da DEEP-RED escolhemos a distribuição SUSE Enterprise pois oferece maior tempo de atividade do data center, maior eficiência operacional e inovação acelerada, para que você possa atender melhor às necessidades dos negócios e dar suporte ao crescimento da receita. O SUSE Enterprise proporciona resiliência, segurança e capacidade de gerenciamento de qualidade empresarial, em ambientes físicos, virtuais e em nuvem, além de reduzir o risco de dependência em relação a fornecedores e obsolescência da tecnologia.</p>
+<p> </p>
+Nós da DEEP-RED escolhemos a distribuição SUSE Enterprise pois oferece maior tempo de atividade do data center, maior eficiência operacional e inovação acelerada, para que você possa atender melhor às necessidades dos negócios e dar suporte ao crescimento da receita. O SUSE Enterprise proporciona resiliência, segurança e capacidade de gerenciamento de qualidade empresarial, em ambientes físicos, virtuais e em nuvem, além de reduzir o risco de dependência em relação a fornecedores e obsolescência da tecnologia.
+<p> </p>
 
 ##Alta Disponibilidade
 <p> </p>
+
 * ###Interrupções de serviço não planejadas
 
    Eliminando interrupções não planejadas é certamente muito mais difícil do que lidar com interrupções planejadas , mas o impacto das interrupções não planejadas exige que as organizações de TI comprimento para reduzir a sua incidência e mitigar o seu impacto.
