@@ -18,9 +18,9 @@ FEED_ALL_RSS = False
 FEED_ALL_ATOM = False
 TRANSLATION_FEED_RSS = False
 TRANSLATION_FEED_ATOM = False
-LINKS = (('Debian', 'http://workshoplinux.github.io/2016/03/linux-debian/'),
-         ('Open Suse', 'http://workshoplinux.github.io/2016/03/linux-open-suse/'),
-         ('RedHat', 'http://workshoplinux.github.io/2016/03/linux-redhat/'))
+LINKS = (('Debian', 'http://workshoplinux.github.io/2016/04/linux-debian/'),
+         ('Open Suse', 'http://workshoplinux.github.io/2016/04/linux-suse-enterprise/'),
+         ('RedHat', 'http://workshoplinux.github.io/2016/04/linux-redhat-enterprise/'))
 SOCIAL = (
           
           
