@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Workshop Linux</title><link href="/" rel="alternate"></link><link href="/feeds/2trca.atom.xml" rel="self"></link><id>/</id><updated>2016-04-23T23:14:00-03:00</updated><entry><title>Linux - SUSE Enterprise</title><link href="/2016/04/linux-suse-enterprise/" rel="alternate"></link><published>2016-04-23T23:14:00-03:00</published><author><name>2TRCA</name></author><id>tag:,2016-04-23:2016/04/linux-suse-enterprise/</id><summary type="html">&lt;h1&gt;Suse Server Enterprise&lt;/h1&gt;
 &lt;p&gt;Nós da DEEP-RED escolhemos a distribuição SUSE Enterprise pois oferece maior tempo de atividade do data center, maior eficiência operacional e inovação acelerada, para que você possa atender melhor às necessidades dos negócios e dar suporte ao crescimento da receita. O SUSE Enterprise proporciona resiliência, segurança e capacidade de gerenciamento de qualidade empresarial, em ambientes físicos, virtuais e em nuvem, além de reduzir o risco de dependência em relação a fornecedores e obsolescência da tecnologia.&lt;/p&gt;
+
 &lt;h2&gt;Alta Disponibilidade&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;h3&gt;Interrupções de serviço não planejadas&lt;/h3&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;p&gt; &lt;/p&gt;
+* ###Interrupções de serviço não planejadas&lt;/p&gt;
 &lt;p&gt;Eliminando interrupções não planejadas é certamente muito mais difícil do que lidar com interrupções planejadas , mas o impacto das interrupções não planejadas exige que as organizações de TI comprimento para reduzir a sua incidência e mitigar o seu impacto.
    Tendo um sistema operacional modernizado, rico em recursos otimizados para reduzir o tempo de inatividade não planejado para ajudar as organizações a cumprir a sua meta de alcançar " cinco noves " de disponibilidade (99,999 % de disponibilidade , ou menos de cinco minutos de tempo de inatividade por ano).&lt;/p&gt;
 &lt;ul&gt;
