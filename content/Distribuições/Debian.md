@@ -1,5 +1,6 @@
 Title: Linux - Debian
-Summary: Debian é uma das únicas distribuições que não é mantida por uma empresa. É todo desenvolvido por voluntários e estudantes de uma universidade.
+Summary: <div style="padding-left: 30%;"><img src="https://app.box.com/representation/file_version_65551465710/image_2048/1.png?shared_name=d22fh0rsjutifddq1tyfgqp14cacb8uj" width="100"/></div><div><p>Debian é uma das únicas distribuições que não é mantida por uma empresa. É todo desenvolvido por voluntários e estudantes de uma universidade.</p></div>
+
 Date: 2016-04-24 00:27:00
 Tags: Debian, Linux,
 
