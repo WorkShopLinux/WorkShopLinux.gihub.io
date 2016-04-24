@@ -20,9 +20,9 @@ Navegadores | Iceweasel
 Pacote Office | Libre Office 4.3.0
 Gerenciador de e-mails | Evolution
 
-É uma das distribuições mais antigas e populares. Ela serviu de base para a criação de diversas outras distribuições populares, tais como Ubuntu e Kurumin.
-
-imagem time line<p> </p>
+É uma das distribuições mais antigas e populares. Ela serviu de base para a criação de diversas outras distribuições populares, tais como Ubuntu e Kurumin.<p> </p>
+![alt text](https://app.box.com/representation/file_version_65546597610/image_2048/1.png?shared_name=v38x0xirvx2zbu2rt299jchxoyq0kgzv)
+<p> </p>
 
 ##Caracteristicas:<p> </p>
 
@@ -41,7 +41,7 @@ imagem time line<p> </p>
 <li>A relação entre a Pixar e o Debian tem uma “marca” bem interessante: O simbolo do Debian está presente no queixo do Buzz Lightyear!</li>
 </ul>
 <p> </p>
- 
-imagem buzz debian
+![alt text](https://app.box.com/representation/file_version_65546937274/image_2048/1.png?shared_name=2vt7qz8d757lf9m755ct0f2xgfllxzqo)
+<p> </p>
 
 Para saber mais sobre o Debian, aproveite nosso WorkShop!
