@@ -4,7 +4,6 @@ Date: 2016-04-24 00:27:00
 Tags: Debian, Linux,
 
 ---
-<p> </p>
 #Distribuição Debian
 
 Debian é uma das únicas distribuições que não é mantida por uma empresa. É todo desenvolvido por voluntários e estudantes de uma universidade. Foi inovador criando uma ferramenta chamada apt-get, que atualiza o sistema resolvendo todas as dependências de pacotes. 
