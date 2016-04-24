@@ -23,17 +23,21 @@ Gerenciador de e-mails | Evolution
 
 imagem time line<p> </p>
 
-##Caracteristicas:
+##Caracteristicas:<p> </p>
 
  - Apt-get, que é um sistema de gerenciamento de pacotes instalados mais práticos dentre os existentes (se não o mais!);
  - Sua versão estável é exaustivamente testada, o que o torna ideal para servidor (segurança e estabilidade);
- - Possui um dos maiores repositórios de pacotes dentre as distros (programas pré-compilados disponíveis para se instalar);<p> </p>
+ - Possui um dos maiores repositórios de pacotes dentre as distros (programas pré-compilados disponíveis para se instalar);
+
+<p> </p>
  
 ##Curiosidades
 
  - Debian é pronunciado /ˈde.bi.ən/. O nome vem do nome de seu criador, Ian Murdock, e sua esposa, Debra.
  - Os codinomes das versões do Debian são baseados nos nomes dos personagens do Toy Story.
- - A relação entre a Pixar e o Debian tem uma “marca” bem interessante: O simbolo do Debian está presente no queixo do Buzz Lightyear!<p> </p>
+ - A relação entre a Pixar e o Debian tem uma “marca” bem interessante: O simbolo do Debian está presente no queixo do Buzz Lightyear!
+ 
+<p> </p>
  
 imagem buzz debian
 
