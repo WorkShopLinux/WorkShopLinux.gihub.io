@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = '2TRCA'
 SITENAME = 'Workshop Linux'
-SITEURL = ''
+SITEURL = 'http://workshoplinux.github.io/'
 TIMEZONE = 'America/Sao_Paulo'
 DEFAULT_LANG = 'pt'
 PATH = 'content'
