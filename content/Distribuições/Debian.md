@@ -2,7 +2,7 @@ Title: Linux - Debian
 Summary: Debian é uma das únicas distribuições que não é mantida por uma empresa. É todo desenvolvido por voluntários e estudantes de uma universidade.
 Date: 2016-04-24 00:27:00
 Tags: Debian, Linux,
-
+<p> </p>
 #Distribuição Debian
 
 Debian é uma das únicas distribuições que não é mantida por uma empresa. É todo desenvolvido por voluntários e estudantes de uma universidade. Foi inovador criando uma ferramenta chamada apt-get, que atualiza o sistema resolvendo todas as dependências de pacotes. 
@@ -26,18 +26,18 @@ imagem time line<p> </p>
 ##Caracteristicas:<p> </p>
 
 <ul>
-<li>-  Apt-get, que é um sistema de gerenciamento de pacotes instalados mais práticos dentre os existentes (se não o mais!);</li>
-<li>-  Sua versão estável é exaustivamente testada, o que o torna ideal para servidor (segurança e estabilidade);</li>
-<li>-  Possui um dos maiores repositórios de pacotes dentre as distros (programas pré-compilados disponíveis para se instalar);</li>
+<li>Apt-get, que é um sistema de gerenciamento de pacotes instalados mais práticos dentre os existentes (se não o mais!);</li>
+<li>Sua versão estável é exaustivamente testada, o que o torna ideal para servidor (segurança e estabilidade);</li>
+<li>Possui um dos maiores repositórios de pacotes dentre as distros (programas pré-compilados disponíveis para se instalar);</li>
 </ul>
 <p> </p>
  
 ##Curiosidades<p> </p>
 
 <ul>
-<li>-  Debian é pronunciado /ˈde.bi.ən/. O nome vem do nome de seu criador, Ian Murdock, e sua esposa, Debra.</li>
-<li>-  Os codinomes das versões do Debian são baseados nos nomes dos personagens do Toy Story.</li>
-<li>-  A relação entre a Pixar e o Debian tem uma “marca” bem interessante: O simbolo do Debian está presente no queixo do Buzz Lightyear!</li>
+<li>Debian é pronunciado /ˈde.bi.ən/. O nome vem do nome de seu criador, Ian Murdock, e sua esposa, Debra.</li>
+<li>Os codinomes das versões do Debian são baseados nos nomes dos personagens do Toy Story.</li>
+<li>A relação entre a Pixar e o Debian tem uma “marca” bem interessante: O simbolo do Debian está presente no queixo do Buzz Lightyear!</li>
 </ul>
 <p> </p>
  
