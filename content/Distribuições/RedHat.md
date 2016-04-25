@@ -54,4 +54,3 @@ Em 15 de março de 2007, lançou o Red Hat Enterprise Linux 5, e em junho adquir
 
 Em 10 de janeiro de 2011, Red Hat anunciou que iria ampliar a sua sede em duas fases, somando 540 funcionários para a operação de Raleigh. A empresa vai investir mais de US $ 109 milhões. O estado da Carolina do Norte está oferecendo até US $15 milhões em incentivos. A segunda fase envolve a "expansão para novas tecnologias como a virtualização de software e tecnologia ofertas de nuvem".
 
-##Histórico das Versões:<p> </p>
