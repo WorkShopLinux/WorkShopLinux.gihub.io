@@ -1,1 +1,3 @@
-
+[submodule "theme_flat"]
+    path = theme_flat
+    url = git://github.com/Z4yon/theme_flat.git
