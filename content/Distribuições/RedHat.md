@@ -56,13 +56,13 @@ Em 10 de janeiro de 2011, Red Hat anunciou que iria ampliar a sua sede em duas f
 
 | Características        | Redhat   | Ubuntu        | Open Suse  |
 | ---------------------- |:---------:|:-------------:|-----------:|
-| Interface              | Gnome     | Unity         | Gnome 3    |
+| Interface              | Gnome 3    | Unity         | Gnome 3    |
 | Gerenciador de Pacotes | Yum e RPM | Apt-get e DPKG| Yast e RPM |
-| Sistema de arquivo Padrão | BTRFS  | EXT4          | EXT4       |
-| Versão do Kernel       | 4.2.0     | 4.4           | 3.12.28    |
+| Sistema de arquivo Padrão | XFS    | EXT4          | EXT4       |
+| Versão do Kernel       | 3.10.0-XXX| 4.4           | 3.12.28    |
 | Browser | Mozilla Firefox | Mozilla Firefox   | Mozilla Firefox |
 | Versão do sistema | Redhat 7 | Ubuntu 16.04 LTS | Open Suse 13 |
 | Aplicação Escritório | Libre Office | Libre Office | Libre Office |
-| Processo de inicialização | Systemd |      Upstart |       Init |
+| Processo de inicialização | SystemD |      SystemD |       Init |
 | Gerenciador de email   | Evolution | Thunderbird   | Evolution  |
 | Reprodutor multimidia | Rhythmbox/Totem | Rhythmbox | Rhythmbox |
