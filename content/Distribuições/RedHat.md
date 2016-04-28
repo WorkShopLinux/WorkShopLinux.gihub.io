@@ -54,14 +54,14 @@ Em 15 de março de 2007, lançou o Red Hat Enterprise Linux 5, e em junho adquir
 
 Em 10 de janeiro de 2011, Red Hat anunciou que iria ampliar a sua sede em duas fases, somando 540 funcionários para a operação de Raleigh. A empresa vai investir mais de US $ 109 milhões. O estado da Carolina do Norte está oferecendo até US $15 milhões em incentivos. A segunda fase envolve a "expansão para novas tecnologias como a virtualização de software e tecnologia ofertas de nuvem".
 
-| Características        | Fedora    | Ubuntu        | Open Suse  |
+| Características        | Redhat   | Ubuntu        | Open Suse  |
 | ---------------------- |:---------:|:-------------:|-----------:|
 | Interface              | Gnome     | Unity         | Gnome 3    |
 | Gerenciador de Pacotes | Yum e RPM | Apt-get e DPKG| Yast e RPM |
 | Sistema de arquivo Padrão | BTRFS  | EXT4          | EXT4       |
 | Versão do Kernel       | 4.2.0     | 4.4           | 3.12.28    |
 | Browser | Mozilla Firefox | Mozilla Firefox   | Mozilla Firefox |
-| Versão do sistema | Fedora 22 | Ubuntu 16.04 LTS | Open Suse 13 |
+| Versão do sistema | Redhat 7 | Ubuntu 16.04 LTS | Open Suse 13 |
 | Aplicação Escritório | Libre Office | Libre Office | Libre Office |
 | Processo de inicialização | Systemd |      Upstart |       Init |
 | Gerenciador de email   | Evolution | Thunderbird   | Evolution  |
