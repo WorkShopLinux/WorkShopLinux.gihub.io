@@ -66,3 +66,4 @@ Em 10 de janeiro de 2011, Red Hat anunciou que iria ampliar a sua sede em duas f
 | Processo de inicialização | SystemD |      SystemD |      Init  |
 | Gerenciador de email   | Evolution | Thunderbird   | Evolution  |
 | Reprodutor multimidia | Rhythmbox/Totem | Rhythmbox | Rhythmbox |
+| Tempo de suporte      |  10 anos        | 5 anos    | 13 anos   |
