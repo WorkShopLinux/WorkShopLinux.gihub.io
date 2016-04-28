@@ -63,6 +63,6 @@ Em 10 de janeiro de 2011, Red Hat anunciou que iria ampliar a sua sede em duas f
 | Browser | Mozilla Firefox | Mozilla Firefox   | Mozilla Firefox |
 | Versão do sistema | Redhat 7 | Ubuntu 16.04 LTS | Open Suse 13 |
 | Aplicação Escritório | Libre Office | Libre Office | Libre Office |
-| Processo de inicialização | SystemD |      SystemD |       Init |
+| Processo de inicialização | SystemD |      SystemD |      Init  |
 | Gerenciador de email   | Evolution | Thunderbird   | Evolution  |
 | Reprodutor multimidia | Rhythmbox/Totem | Rhythmbox | Rhythmbox |
