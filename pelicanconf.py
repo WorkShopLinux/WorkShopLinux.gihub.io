@@ -52,7 +52,7 @@ GOOGLE_ANALYTICS = '''<script>
   ga('send', 'pageview');
 
 </script>'''
-GOOGLE_ANALYTICS_DOMAIN = 'UA-78644979-1'
+GOOGLE_ANALYTICS_DOMAIN = ''
 RELATED_POSTS_MAX = 20
 SITEMAP = {
     'format': 'xml',
