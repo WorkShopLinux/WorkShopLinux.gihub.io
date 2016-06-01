@@ -3,15 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = '2TRCA'
-SITENAME = '''Workshop Linux  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-78641937-1', 'auto');
-  ga('send', 'pageview');
-
-</script>'''
+SITENAME = '''Workshop Linux  '''
 SITEURL = 'http://workshoplinux.github.io/'
 TIMEZONE = 'America/Sao_Paulo'
 DEFAULT_LANG = 'pt'
@@ -51,7 +43,7 @@ SITE_THUMBNAIL_TEXT = 'Vamos falar de Linux'
 SITESUBTITLE = ''
 DISQUS_SITENAME = ''
 GOOGLE_ANALYTICS = ''
-GOOGLE_ANALYTICS_DOMAIN = ''
+GOOGLE_ANALYTICS_DOMAIN = 'UA-78641937-1'
 RELATED_POSTS_MAX = 20
 SITEMAP = {
     'format': 'xml',
