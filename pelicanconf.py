@@ -63,7 +63,7 @@ ICON = 'https://app.box.com/representation/file_version_65462663706/image_2048/1
 SHORTCUT_ICON = 'https://app.box.com/representation/file_version_65462663706/image_2048/1.png?shared_name=spnjqjkijy2bss0q3blf8vzuyu9agsqy'
 HEADER_IMAGE = 'https://app.box.com/representation/file_version_65461344342/image_2048_jpg/1.jpg?shared_name=30mljt84zaggnmkhhbug3oq25j3ariqt'
 BACKGROUND_IMAGE = 'https://app.box.com/representation/file_version_65462663706/image_2048/1.png?shared_name=spnjqjkijy2bss0q3blf8vzuyu9agsqy'
-COPYRIGHT = '''<a href="https://travis-ci.org/WorkShopLinux/WorkShopLinux.github.io"><img src="https://travis-ci.org/WorkShopLinux/WorkShopLinux.github.io.svg?branch=pelican"></a> | 2016 &copy; Todos direitos reservados.'''<script>
+COPYRIGHT = '''<a href="https://travis-ci.org/WorkShopLinux/WorkShopLinux.github.io"><img src="https://travis-ci.org/WorkShopLinux/WorkShopLinux.github.io.svg?branch=pelican"></a> | 2016 &copy; Todos direitos reservados.<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
