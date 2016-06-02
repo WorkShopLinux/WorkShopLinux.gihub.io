@@ -66,7 +66,15 @@ BACKGROUND_IMAGE = 'https://app.box.com/representation/file_version_65462663706/
 COPYRIGHT = '<a href="https://travis-ci.org/WorkShopLinux/WorkShopLinux.github.io"><img src="https://travis-ci.org/WorkShopLinux/WorkShopLinux.github.io.svg?branch=pelican"></a> | 2016 &copy; Todos direitos reservados.<script>'
 PERSONAL_PHOTO = 'https://app.box.com/representation/file_version_65458744990/image_2048/1.png?shared_name=a88v0lhutyg6a5uqpjtbgrqriv758wda'
 PERSONAL_INFO = 'Nós somos a turma do segundo ano do curso superior tecnológico de redes de computadores, somos amantes de software livre e das filosofias GNU e Open source.<p>Motivados pela elaboração de uma workshop explanando nossos conhecimentos e vivencias no ambiente Linux, este blog  foi criado para divulgar ainda mais o conhecimento e as possibilidades que os sistemas Open Source existentes no mercado atual podem  nos oferecer.'
-NAV_LINK_NAME_DROP = 'distribuições'
+NAV_LINK_NAME_DROP = '''<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5QPCMF"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5QPCMF');</script>
+<!-- End Google Tag Manager -->distribuições'''
 NAV_LINK_2 = '''SOBRE<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
