@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = '2TRCA'
-SITENAME = '''Workshop Linux  '''
+SITENAME = 'Workshop Linux'
 SITEURL = 'http://workshoplinux.github.io/'
 TIMEZONE = 'America/Sao_Paulo'
 DEFAULT_LANG = 'pt'
@@ -63,8 +63,7 @@ ICON = 'https://app.box.com/representation/file_version_65462663706/image_2048/1
 SHORTCUT_ICON = 'https://app.box.com/representation/file_version_65462663706/image_2048/1.png?shared_name=spnjqjkijy2bss0q3blf8vzuyu9agsqy'
 HEADER_IMAGE = 'https://app.box.com/representation/file_version_65461344342/image_2048_jpg/1.jpg?shared_name=30mljt84zaggnmkhhbug3oq25j3ariqt'
 BACKGROUND_IMAGE = 'https://app.box.com/representation/file_version_65462663706/image_2048/1.png?shared_name=spnjqjkijy2bss0q3blf8vzuyu9agsqy'
-COPYRIGHT = '''<a href="https://travis-ci.org/WorkShopLinux/WorkShopLinux.github.io"><img src="https://travis-ci.org/WorkShopLinux/WorkShopLinux.github.io.svg?branch=pelican"></a> | 2016 &copy; Todos direitos reservados.<script>
- '''
+COPYRIGHT = '<a href="https://travis-ci.org/WorkShopLinux/WorkShopLinux.github.io"><img src="https://travis-ci.org/WorkShopLinux/WorkShopLinux.github.io.svg?branch=pelican"></a> | 2016 &copy; Todos direitos reservados.<script>'
 PERSONAL_PHOTO = 'https://app.box.com/representation/file_version_65458744990/image_2048/1.png?shared_name=a88v0lhutyg6a5uqpjtbgrqriv758wda'
 PERSONAL_INFO = 'Nós somos a turma do segundo ano do curso superior tecnológico de redes de computadores, somos amantes de software livre e das filosofias GNU e Open source.<p>Motivados pela elaboração de uma workshop explanando nossos conhecimentos e vivencias no ambiente Linux, este blog  foi criado para divulgar ainda mais o conhecimento e as possibilidades que os sistemas Open Source existentes no mercado atual podem  nos oferecer.'
 NAV_LINK_NAME_DROP = 'distribuições'
