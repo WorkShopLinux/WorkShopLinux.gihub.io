@@ -42,17 +42,8 @@ SITE_THUMBNAIL = 'https://app.box.com/representation/file_version_65462663706/im
 SITE_THUMBNAIL_TEXT = 'Vamos falar de Linux'
 SITESUBTITLE = ''
 DISQUS_SITENAME = ''
-GOOGLE_ANALYTICS = '''<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-78722919-1', 'auto');
-  ga('send', 'pageview');
-
-</script>'''
-GOOGLE_ANALYTICS_DOMAIN = 'UA-78722919-1'
+GOOGLE_ANALYTICS = ''
+GOOGLE_ANALYTICS_DOMAIN = ''
 RELATED_POSTS_MAX = 20
 SITEMAP = {
     'format': 'xml',
@@ -76,7 +67,16 @@ COPYRIGHT = '<a href="https://travis-ci.org/WorkShopLinux/WorkShopLinux.github.i
 PERSONAL_PHOTO = 'https://app.box.com/representation/file_version_65458744990/image_2048/1.png?shared_name=a88v0lhutyg6a5uqpjtbgrqriv758wda'
 PERSONAL_INFO = 'Nós somos a turma do segundo ano do curso superior tecnológico de redes de computadores, somos amantes de software livre e das filosofias GNU e Open source.<p>Motivados pela elaboração de uma workshop explanando nossos conhecimentos e vivencias no ambiente Linux, este blog  foi criado para divulgar ainda mais o conhecimento e as possibilidades que os sistemas Open Source existentes no mercado atual podem  nos oferecer.'
 NAV_LINK_NAME_DROP = 'distribuições'
-NAV_LINK_2 = 'SOBRE'
+NAV_LINK_2 = '''SOBRE<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-78722919-1', 'auto');
+  ga('send', 'pageview');
+
+</script>'''
 NAV_LINK_3 = 'BLOG'
 NAV_LINK_4 = 'TRABALHOS'
 TI_LINK_4 = 'Trabalhos'
