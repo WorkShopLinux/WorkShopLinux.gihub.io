@@ -45,19 +45,7 @@ DISQUS_SITENAME = ''
 GOOGLE_ANALYTICS = ''
 GOOGLE_ANALYTICS_DOMAIN = ''
 RELATED_POSTS_MAX = 20
-SITEMAP = {
-    'format': 'xml',
-    'priorities': {
-        'articles': 0.5,
-        'indexes': 0.5,
-        'pages': 0.5
-    },
-    'changefreqs': {
-        'articles': 'monthly',
-        'indexes': 'daily',
-        'pages': 'monthly'
-    }
-}
+
 FAVICON = 'https://app.box.com/representation/file_version_65462663706/image_2048/1.png?shared_name=spnjqjkijy2bss0q3blf8vzuyu9agsqy'
 ICON = 'https://app.box.com/representation/file_version_65462663706/image_2048/1.png?shared_name=spnjqjkijy2bss0q3blf8vzuyu9agsqy'
 SHORTCUT_ICON = 'https://app.box.com/representation/file_version_65462663706/image_2048/1.png?shared_name=spnjqjkijy2bss0q3blf8vzuyu9agsqy'
@@ -66,13 +54,13 @@ BACKGROUND_IMAGE = 'https://app.box.com/representation/file_version_65462663706/
 COPYRIGHT = '<a href="https://travis-ci.org/WorkShopLinux/WorkShopLinux.github.io"><img src="https://travis-ci.org/WorkShopLinux/WorkShopLinux.github.io.svg?branch=pelican"></a> | 2016 &copy; Todos direitos reservados.<script>'
 PERSONAL_PHOTO = 'https://app.box.com/representation/file_version_65458744990/image_2048/1.png?shared_name=a88v0lhutyg6a5uqpjtbgrqriv758wda'
 PERSONAL_INFO = 'Nós somos a turma do segundo ano do curso superior tecnológico de redes de computadores, somos amantes de software livre e das filosofias GNU e Open source.<p>Motivados pela elaboração de uma workshop explanando nossos conhecimentos e vivencias no ambiente Linux, este blog  foi criado para divulgar ainda mais o conhecimento e as possibilidades que os sistemas Open Source existentes no mercado atual podem  nos oferecer.'
-NAV_LINK_NAME_DROP = ''
+NAV_LINK_NAME_DROP = 'distribuições'
 NAV_LINK_2 = 'SOBRE'
 NAV_LINK_3 = 'BLOG'
 NAV_LINK_4 = 'TRABALHOS'
 TI_LINK_4 = 'Trabalhos'
 TI_LINK_3 = 'Distribuições\n'
-DESC_LINK_3 = 'Alguma das distribuições abordadas'
+DESC_LINK_3 = 'Algumas das distribuições abordadas'
 NOME_BT_ART = 'Ler'
 TI_LINK_2 = 'A equipe'
 TX_MORE = 'Veja mais'
